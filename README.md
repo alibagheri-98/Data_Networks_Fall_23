@@ -1,5 +1,5 @@
 # Data_Networks_Fall_23
-This repository contains course materials related to data networks that I studied during the fall of 2023. The course was instructed by Dr. Pakravan.
+This repository contains the homework assignment I desgined related to data networks during the Fall of 2023. The course is instructed by Dr. Pakravan.
 
 ## Course syllabus
 - Introduction
